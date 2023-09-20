@@ -9,7 +9,7 @@ import requests
 import io
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 def generate():
     user_prompt = prompt_entry.get("0.0", tkinter.END)
