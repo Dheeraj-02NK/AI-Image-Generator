@@ -36,9 +36,6 @@ AI Image Generator is a Python application that utilizes OpenAI's GPT-3 to gener
 - You can further customize the GUI's appearance and layout by modifying the code in `main.py`.
 - Adjust the initial window size by changing the `root.geometry` line.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
