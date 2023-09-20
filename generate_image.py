@@ -2,7 +2,7 @@ import os
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 user_prompt = "cat wearing red cape"
 
